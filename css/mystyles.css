@@ -1,0 +1,20 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
+
+.heading{
+    font-weight: bold;
+}
+.mainbody1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mainbody2{
+    font-family: 'Courier New', Courier, monospace;
+}
